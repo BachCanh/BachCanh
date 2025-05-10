@@ -1,58 +1,33 @@
-## Hi there 👋, I’m **Bach Duc Canh**
+<h1 align="center">Hi 👋, I'm Bach Duc Canh</h1>
+<h3 align="center">A third-year IT student & aspiring Backend Developer</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BachCanh)](https://git.io/streak-stats)
+- 🎓 I’m studying at **Ho Chi Minh City University of Technology and Education** (International Program)  
+- 💻 Focused on **Backend Development** with **Node.js**, **Express.js**, **MongoDB**, and experienced in **C#**  
+- 🌱 Currently learning **microservices**, **Docker**, and **Kubernetes**
 
----
+<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BachCanh&theme=vue&layout=compact&hide_border=false&include_all_commits=true&count_private=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=BachCanh&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)
 
-### 🎓 About Me
-- 👨‍🎓 Third-year IT student at **Ho Chi Minh City University of Technology and Education** (International Program)  
-- 📊 GPA: **3.21/4.0**  |  🗣️ TOEIC: **700**  
-- ☁️ **AWS Certified**: Foundation & Developer  
-- 💼 Aspiring **Backend Developer** with hands-on experience in full-stack web apps  
-- 🌱 Currently learning advanced **microservices** and **Kubernetes orchestration**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/bachduc-canh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bachduc-canh" height="30" width="40" />
+  </a>
+  <a href="https://github.com/BachCanh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BachCanh" height="30" width="40" />
+  </a>
+</p>
 
----
-
-### 💻 Tech Stack
-
-| Front-end                    | Back-end / DB                 | DevOps & Tools                 |
-| ---------------------------- | ----------------------------- | ------------------------------ |
-| HTML5 • CSS3 • JavaScript    | Node.js • Express.js • C#     | Docker • Kubernetes • AWS      |
-| React.js • Tailwind CSS      | MongoDB • Mongoose • SQL      | Git • GitHub • VS Code         |
-| Handlebars • Bootstrap       | GraphQL • RESTful APIs        | Linux (Ubuntu/macOS) • Windows |
-
----
-
-### 🚀 Featured Projects
-
-| Project     | Description                                                | Tech Tags                                 |
-| ----------- | ---------------------------------------------------------- | ----------------------------------------- |
-| **4P News** | 🔍 Responsive news portal where users can browse articles and upload their own with rich-text, images & tags. | Handlebars • Bootstrap • Express.js • MongoDB |
-| **6P Bank** | 💳 Secure, full-stack banking app with account management, real-time transactions & dashboards. | React.js • Tailwind CSS • Express.js • MongoDB |
-| **Finding Job** | 🔎 C# WinForms desktop app for searching, filtering, and managing local job listings. | C# • WinForms • SQLite/XML              |
-
-🔗 [View all projects →](https://github.com/BachCanh?tab=repositories)
-
----
-
-### 📫 Let’s Connect
-- 🌐 Portfolio: [canh.dev](https://canh.dev)  
-- 📝 Blog: [yourblog.example.com]  
-- 📨 Email: [cbd1708@gmail.com](mailto:cbd1708@gmail.com)  
-- 💬 LinkedIn: [linkedin.com/in/bachduc-canh](https://linkedin.com/in/bachduc-canh)  
-- 👨‍💻 GitHub: [github.com/BachCanh](https://github.com/BachCanh)
-
----
-
-> “Continuous learning and collaboration are keys to growth.”  
-> — *Bach Duc Canh*
-
-<!--
-**BachCanh/BachCanh** is a ✨ special repository because its `README.md` appears on your GitHub profile.
-Feel free to tweak any section to match your personal style or update links!
--->```
-
-**Tips to go further:**
-- Add 🖼️ a profile picture or animated GIF at the top (via Markdown image tag).  
-- Use shields.io badges for certifications, Twitter, or top languages.  
-- Pin your key repos in your GitHub profile settings to highlight them visually.
+<h3 align="left">Tech & Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
