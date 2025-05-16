@@ -1,6 +1,3 @@
-## Banner go here
- 
- <hr></hr>
 <p align="center">
   <samp>
     Hi, I'm Canh! 👋 <br>
